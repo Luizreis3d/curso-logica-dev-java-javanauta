@@ -1,4 +1,4 @@
-package estruturasSequenciais;
+package modulo01_estruturasSequenciais;
 
 public class exe3_operadoresAritmeticos {
     public static void main(String[] args) {

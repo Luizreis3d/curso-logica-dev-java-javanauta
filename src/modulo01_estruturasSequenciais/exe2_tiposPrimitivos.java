@@ -1,4 +1,4 @@
-package estruturasSequenciais;
+package modulo01_estruturasSequenciais;
 
 public class exe2_tiposPrimitivos {
     public static void main(String[] args) {

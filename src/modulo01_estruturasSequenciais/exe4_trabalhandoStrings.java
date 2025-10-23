@@ -1,4 +1,4 @@
-package estruturasSequenciais;
+package modulo01_estruturasSequenciais;
 
 public class exe4_trabalhandoStrings {
     public static void main(String[] args) {
