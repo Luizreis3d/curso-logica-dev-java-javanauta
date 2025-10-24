@@ -2,7 +2,7 @@ package modulo01_estruturasSequenciais;
 
 import java.util.Scanner;
 
-public class exe5_entradaSaidaDados {
+public class aula05_entradaSaidaDados {
     public static void main(String[] args) {
 //        System.out.print("imprime sem pular linha");
 //        System.out.println("imprime e pula para a próxima linha");

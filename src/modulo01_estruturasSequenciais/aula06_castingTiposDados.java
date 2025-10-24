@@ -1,6 +1,6 @@
 package modulo01_estruturasSequenciais;
 
-public class exe6_castingTiposDados {
+public class aula06_castingTiposDados {
     public static void main(String[] args) {
         int numero = 10;
         double d =  numero;

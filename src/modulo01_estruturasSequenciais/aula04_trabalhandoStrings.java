@@ -1,6 +1,6 @@
 package modulo01_estruturasSequenciais;
 
-public class exe4_trabalhandoStrings {
+public class aula04_trabalhandoStrings {
     public static void main(String[] args) {
         String nome = "Joana";
         String sobrenome = " da Silva";

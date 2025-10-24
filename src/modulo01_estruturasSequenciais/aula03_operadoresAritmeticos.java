@@ -1,6 +1,6 @@
 package modulo01_estruturasSequenciais;
 
-public class exe3_operadoresAritmeticos {
+public class aula03_operadoresAritmeticos {
     public static void main(String[] args) {
         double pao = 10.50;
         double queijo = 7.00;
